@@ -22,7 +22,7 @@ A Python Tkinter application that visualizes the N-Queen backtracking algorithm 
 
 1. Navigate to the project root directory:
    ```bash
-   cd /home/divs/Projects/python_projects/n-queen-problem
+   cd ~/n-queen-problem
    ```
 
 2. Run the application as a module:
